@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<section src="${2:file.xml}"/>]]></content>
+	<tabTrigger>bcsectionsrc</tabTrigger>
+	<description>Bookchef - external section</description>
+</snippet>

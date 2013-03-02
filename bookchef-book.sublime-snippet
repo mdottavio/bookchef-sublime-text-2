@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<book>
+
+  <cover><img src="${1:cover.png}"/><${2:InsertBookVersion}/></cover>
+
+</book>]]></content>
+	<tabTrigger>bcbook</tabTrigger>
+	<description>Bookchef - book</description>
+</snippet>

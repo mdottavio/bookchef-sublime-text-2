@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<references>
+    ${1:yourReferences}
+</references>]]></content>
+	<tabTrigger>bcreferences</tabTrigger>
+	<description>Bookchef - references group</description>
+</snippet>

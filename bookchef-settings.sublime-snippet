@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<settings>
+
+  ${1:yourSettings}
+
+</settings>]]></content>
+	<tabTrigger>bcsettings</tabTrigger>
+	<description>Bookchef - settings group</description>
+</snippet>

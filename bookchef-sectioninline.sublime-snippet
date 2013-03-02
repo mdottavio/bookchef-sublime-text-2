@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<section>
+  <title>${1:SectionTitle}</title>
+  <p>
+  	${2:sectionContent}
+  </p>
+</section>]]></content>
+	<tabTrigger>bcsection</tabTrigger>
+	<description>Bookchef - section</description>
+</snippet>

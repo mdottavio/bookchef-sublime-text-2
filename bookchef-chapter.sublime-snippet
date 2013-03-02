@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<chapter>
+
+  ${1:yourSectionsHere}
+
+</chapter>]]></content>
+	<tabTrigger>bcchapter</tabTrigger>
+	<description>Bookchef - chapter</description>
+</snippet>

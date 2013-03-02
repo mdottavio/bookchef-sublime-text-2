@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<reference id="${1:index}" type="${2:type}" url="${3:url}">${4:description}</reference>]]></content>
+	<tabTrigger>bcreference</tabTrigger>
+	<description>Bookchef - reference</description>
+</snippet>

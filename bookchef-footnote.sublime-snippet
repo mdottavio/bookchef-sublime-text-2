@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<footnote id="${1:index}">${2:yourNote}</footnote>]]></content>
+	<tabTrigger>bcfootnote</tabTrigger>
+	<description>Bookchef - footnote</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<code description="${1:description}">
+	${2:yourCode}
+</code>]]></content>
+	<tabTrigger>bccode</tabTrigger>
+	<description>Bookchef - code</description>
+</snippet>
